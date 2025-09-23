@@ -6,3 +6,5 @@
 This way, you'll practice a complete workflow in Git and GitHub.**
 
 sergiosc04, Sergio Serrano
+1MariaAngeles, MªAngeles Herreros Benito
+
