@@ -4,4 +4,16 @@
 
 **If you're a student in the course, fork the project and add your GitHub username on a new line.
 This way, you'll practice a complete workflow in Git and GitHub.**
-- Sergio CM
+
+sergiosc04, Sergio Serrano
+
+1MariaAngeles, MªAngeles Herreros Benito
+
+PabloCamins, Pablo Rafael Camins Fernández
+
+Adri609, Bogdan Adrián Tucaciuc
+
+Sergio-CM, Sergio Carrascosa Merino
+
+
+
