@@ -13,4 +13,7 @@
 ## 🧭 Course Structure (overview)
 - **Core tech**: Kotlin, Jetpack Compose, Android Studio, Git/GitHub.  
 - **Methodology**: project-based learning, iterative deliveries, PR reviews, and usability testing.  
-- **Assessment**: rubrics per Learning Outcome (RA), code quality, documentation, and oral defense.
+- **Assessment**: rubrics per Learning Outcome (RA), code quality, documentation, and oral defence.
+
+## 🧭 Repository's additions. 
+- **28/10/2025**: CRUD Repository Example 1 looked in class 28/10/2025
