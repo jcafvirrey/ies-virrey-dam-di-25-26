@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1-CRUD Example 1/1-CRUD Example 1.iml" filepath="$PROJECT_DIR$/1-CRUD Example 1/1-CRUD Example 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-CRUD-Example-Examen/2-CRUD-Example-Examen.iml" filepath="$PROJECT_DIR$/2-CRUD-Example-Examen/2-CRUD-Example-Examen.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ies-virrey-dam-di-25-26.iml" filepath="$PROJECT_DIR$/.idea/ies-virrey-dam-di-25-26.iml" />
     </modules>
   </component>

@@ -27,6 +27,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class InMemoryStudentRepository implements StudentRepository{
+    //Lista interna de estudiantes "protegida"
     private List<Student> students = new ArrayList<>();
     private int nextId = 1;
 
