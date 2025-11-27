@@ -19,3 +19,4 @@
 - **28/10/2025**: CRUD Repository Example 1 looked in class 28/10/2025
 - **13/11/2025**: Ejercicios Lesson 1: Kotlin Basics resueltos en clase 13/11/2025
 - **17/11/2025**: Ejercicios Lesson 1: Kotlin Basics resueltos en clase 17/11/2025
+- **21/11/2025**: Ejercicios Lesson 2: Kotlin Functions resueltos en clase 20/11/2025
