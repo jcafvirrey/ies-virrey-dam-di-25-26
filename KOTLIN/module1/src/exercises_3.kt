@@ -81,7 +81,7 @@ fun exercise_24(){
     //Volvemos a llamar a !!.length
     //Como texto AHORA es null, !! provoca una NullPointerException.
     //Esto hará que el programa falle en tiempo de ejecución.
-    println("Longitud después de asignar null: ${texto!!.length}")  //ERROR
+    //println("Longitud después de asignar null: ${texto!!.length}")  //ERROR
 }
 fun exercise_25(){
     //Declaramos una variable String? (puede ser null)

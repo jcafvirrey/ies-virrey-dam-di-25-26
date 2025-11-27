@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/KOTLIN/KOTLIN.iml" filepath="$PROJECT_DIR$/KOTLIN/KOTLIN.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ies-virrey-dam-di-25-26.iml" filepath="$PROJECT_DIR$/.idea/ies-virrey-dam-di-25-26.iml" />
       <module fileurl="file://$PROJECT_DIR$/KOTLIN/module1/module1.iml" filepath="$PROJECT_DIR$/KOTLIN/module1/module1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KOTLIN/module2/module2.iml" filepath="$PROJECT_DIR$/KOTLIN/module2/module2.iml" />
     </modules>
   </component>
 </project>
