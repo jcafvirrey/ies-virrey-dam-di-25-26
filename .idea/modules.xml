@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1-CRUD Example 1/1-CRUD Example 1.iml" filepath="$PROJECT_DIR$/1-CRUD Example 1/1-CRUD Example 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-CRUD-Example-Examen/2-CRUD-Example-Examen.iml" filepath="$PROJECT_DIR$/2-CRUD-Example-Examen/2-CRUD-Example-Examen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KOTLIN/Class Exercise/Class Exercise.iml" filepath="$PROJECT_DIR$/KOTLIN/Class Exercise/Class Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/KOTLIN/KOTLIN.iml" filepath="$PROJECT_DIR$/KOTLIN/KOTLIN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KOTLIN/full-projects/full-projects.iml" filepath="$PROJECT_DIR$/KOTLIN/full-projects/full-projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ies-virrey-dam-di-25-26.iml" filepath="$PROJECT_DIR$/.idea/ies-virrey-dam-di-25-26.iml" />
       <module fileurl="file://$PROJECT_DIR$/KOTLIN/module1/module1.iml" filepath="$PROJECT_DIR$/KOTLIN/module1/module1.iml" />
       <module fileurl="file://$PROJECT_DIR$/KOTLIN/module2/module2.iml" filepath="$PROJECT_DIR$/KOTLIN/module2/module2.iml" />
